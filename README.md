@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-## Swiss Solidarity
-### East Africa Fund Evaluation: Restoring Livelihoods Amidst Climate Change and Conflict
-=======
-## IOM - Final External Evaluation of “Addressing Human Security through Integrated Support for the Most Vulnerable and Crisis-Affected Communities in South Kordofan"
->>>>>>> 3be5816 (first commit)
+## IOM
+### Final External Evaluation of “Addressing Human Security through Integrated Support for the Most Vulnerable and Crisis-Affected Communities in South Kordofan"
 
 This code is working based on four Python scripts (bodhi_PMF.py, bodhi_data_analysis.py, bodhi_data_preprocessing.py, bodhi_indicator.py)
 
