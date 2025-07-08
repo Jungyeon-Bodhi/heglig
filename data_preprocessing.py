@@ -68,5 +68,5 @@ del_type = 0 or 1
       Then, remove all remaining missing values from the columns where they are detected
 """
 
-fir = dp.Preprocessing(project_name, file_path, file_path_others, list_del_cols, dates, miss_col, respondent_name, enumerator_name, identifiers, open_cols, cols_new, age_col, diss_cols, del_type = 0, file_type=file_type)
-fir.processing()
+heglig = dp.Preprocessing(project_name, file_path, file_path_others, list_del_cols, dates, miss_col, respondent_name, enumerator_name, identifiers, open_cols, cols_new, age_col, diss_cols, del_type = 0, file_type=file_type)
+heglig.processing()
