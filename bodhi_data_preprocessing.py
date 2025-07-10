@@ -212,6 +212,8 @@ class Preprocessing:
         if not duplicates.empty:
             print("Duplicate rows:")
             print(duplicates)
+
+        df = df[df['3'] != 'Under 18']
     
         df_cleaned = df.drop_duplicates(subset=col, keep='first')
     
